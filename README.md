@@ -29,6 +29,7 @@ This homework required me to build a Node CLI process that takes in information 
 
     #Links:
     Deployed Version: https://whintzen.github.io/Homework_10_Teams/output/team.html
+            
     GitHub Repository: https://github.com/whintzen/Homework_10_Teams
 
     #Image:
