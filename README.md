@@ -28,6 +28,10 @@ This homework required me to build a Node CLI process that takes in information 
         •	HTML Output File
 
     #Links:
-    https://whintzen.github.io/Homework_10_Teams/output/team.html
-    
+    Deployed Version: https://whintzen.github.io/Homework_10_Teams/output/team.html
+    GitHub Repository: https://github.com/whintzen/Homework_10_Teams
+
+    #Image:
+       ![EngineeringTeam] (images/Teams.png);
+
 
