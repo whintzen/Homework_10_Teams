@@ -70,7 +70,6 @@ let internInquirer = [
 ];
 
 let initInquirer = () => {
-  console.log("initInquirer ran !");
   inquirer
     .prompt([
       {
