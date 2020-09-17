@@ -29,9 +29,14 @@ This homework required me to build a Node CLI process that takes in information 
 
     #Links:
     Deployed Version: https://whintzen.github.io/Homework_10_Teams/output/team.html
+
     GitHub Repository: https://github.com/whintzen/Homework_10_Teams
 
+    Screencastify video: https://drive.google.com/file/d/1IaAojLYq5Etp5kfL0k2pGcNAgCxUOOwE/view?usp=sharing  
+    
     #Image:
-       ![EngineeringTeam] (images/Teams.png);
+    <img src="images/Teams.png" alt="EngineeringTeam">
+
+       
 
 
